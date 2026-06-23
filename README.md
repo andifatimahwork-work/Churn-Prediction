@@ -37,8 +37,7 @@ The notebook covers:
 
 The notebook expects the dataset at:
 
-```text
-data/bank_churn_data.csv
+```data/bank_churn_data.csv
 ```
 
 The dataset is not included in this repository. Place the CSV file in the `data/` folder before running the notebook.
