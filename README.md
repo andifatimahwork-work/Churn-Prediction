@@ -17,9 +17,9 @@ The main business objective is to build an early warning model that helps the ba
 
 ## Notebook
 
-Main analysis: 
-```notebooks\churn_prediction_business_metrics.ipynb"
-```
+Main analysis:
+
+[`notebooks/churn_prediction_business_metrics.ipynb`](notebooks/churn_prediction_business_metrics.ipynb)
 
 The notebook covers:
 
@@ -37,7 +37,8 @@ The notebook covers:
 
 The notebook expects the dataset at:
 
-```data/bank_churn_data.csv
+```text
+data/bank_churn_data.csv
 ```
 
 The dataset is not included in this repository. Place the CSV file in the `data/` folder before running the notebook.
