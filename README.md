@@ -17,7 +17,7 @@ The main business objective is to build an early warning model that helps the ba
 
 ## Notebook
 
-Main analysis: data/bank_churn_data.csv
+Main analysis: '''data/bank_churn_data.csv'''
 
 The notebook covers:
 
